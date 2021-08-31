@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Guilherme Aristeu.
 
-- 🌱 Estou aprendendo: HTML, CSS, PHP e Javascript
+- 🌱 Estou estudando: HTML, CSS, PHP e Javascript
 
 <div>
   <a href="https://github.com/GuiAristeu">
