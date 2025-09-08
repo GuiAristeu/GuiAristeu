@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Guilherme Aristeu.
 
-- 🌱 Estou estudando: HTML, CSS, PHP e Javascript
+- 🌱 Estudante backend em busca de uma vaga Jr.
 
 <div>
   <a href="https://github.com/GuiAristeu">
